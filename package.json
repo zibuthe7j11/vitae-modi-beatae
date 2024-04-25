@@ -1,18 +1,63 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/vitae-modi-beatae",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "equality",
+    "helpers",
+    "batch",
+    "getintrinsic",
+    "css-in-js",
+    "Float32Array",
+    "cjk",
+    "js",
+    "autoprefixer",
+    "process",
+    "animation",
+    "child",
+    "framework",
+    "computed-types",
+    "BigUint64Array",
+    "eventDispatcher",
+    "dom-testing-library",
+    "sigint",
+    "i18n",
+    "xdg-open",
+    "pretty",
+    "open",
+    "invariant",
+    "array",
+    "merge",
+    "JSON",
+    "speed",
+    "RegExp#flags",
+    "env",
+    "config",
+    "Microsoft",
+    "deep",
+    "byte",
+    "reduce",
+    "bootstrap less",
+    "jwt",
+    "filter",
+    "descriptor",
+    "japanese"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/vitae-modi-beatae.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/vitae-modi-beatae/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/vitae-modi-beatae/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
